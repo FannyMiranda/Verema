@@ -291,3 +291,31 @@ background-image: url("images/vinos2.jpg");
 .lote-bienvenida {
     float: right;
 }
+
+.core-Footer_SocialNetworksList{
+list-style: none;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 50%;
+    margin: 0.5rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: baseline;
+    box-sizing: border-box;
+}
+.core-Footer_SocialNetworksItem{
+    margin: 0 0.25rem;
+}
+.core-Footer {
+    position: relative;
+    border-top: 0;
+    background-color: #8f2b45;
+    color: #fff;
+    text-align: center;
+}
+.core-Footer_Logo {
+    max-width: 160px;
+    margin: 0 auto;
+}
+
